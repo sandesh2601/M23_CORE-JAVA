@@ -1,15 +1,19 @@
 package com.capgimini.oops;
 
 class Animal {
-	int x;
+	int x=15;
 	
-	System.out.println();
+	void display() {
+		System.out.println("LION"+" "+x);
+	}
 }
 public class NonParameteriseConstruttor {
 
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 
+		Animal a=new Animal();
+		a.display();
 
 	}
 

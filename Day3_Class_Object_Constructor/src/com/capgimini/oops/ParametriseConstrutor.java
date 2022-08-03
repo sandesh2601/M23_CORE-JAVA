@@ -3,7 +3,7 @@ package com.capgimini.oops;
 class Pulser{
 	int speed;
 	String colour;
-     Pulser(int speed,String colour) {
+     Pulser(int sp,String col) {
     	 speed= sp;
     	 colour=col;
 	}
