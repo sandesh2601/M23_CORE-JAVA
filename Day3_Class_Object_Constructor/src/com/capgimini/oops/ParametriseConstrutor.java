@@ -3,6 +3,7 @@ package com.capgimini.oops;
 class Pulser{
 	int speed;
 	String colour;
+	//parametrise Constructor
      Pulser(int sp,String col) {
     	 speed= sp;
     	 colour=col;
