@@ -9,7 +9,7 @@ class Pulser{
     	 colour=col;
 	}
      void accept(){
-    	 System.out.println("SPEED IS"+speed+"AND COLOUR IS "+colour);
+    	 System.out.println("SPEED IS "+speed+"Km/h AND COLOUR IS "+colour);
      }
 }
 
