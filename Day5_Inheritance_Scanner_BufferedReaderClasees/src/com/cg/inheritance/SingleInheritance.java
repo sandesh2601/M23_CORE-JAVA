@@ -1,4 +1,4 @@
-package com.cg.inheritance;
+ package com.cg.inheritance;
 //program on single level inheritance
 class Parent {
 	protected int roll_no;

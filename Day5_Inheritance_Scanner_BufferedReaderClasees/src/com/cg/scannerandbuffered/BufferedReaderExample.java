@@ -1,3 +1,4 @@
+
 package com.cg.scannerandbuffered;
 //Program for Buffered Reader
 import java.io.BufferedReader;
