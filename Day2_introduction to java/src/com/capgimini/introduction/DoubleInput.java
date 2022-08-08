@@ -13,6 +13,7 @@ public class DoubleInput {
 		System.out.println("ENTER NUMBER");
 		double b= s.nextDouble();
 		System.out.println(b);
+		s.close();
 
 	}
 

@@ -13,6 +13,7 @@ public class FloatProgram {
 		System.out.println("ENTER NUMBER");
 		float b=s.nextFloat();
 		System.out.println(b);
+		s.close();
 
 	}
 

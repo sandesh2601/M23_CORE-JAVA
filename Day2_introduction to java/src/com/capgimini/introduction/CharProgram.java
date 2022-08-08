@@ -16,7 +16,7 @@ public class CharProgram {
 	
 		char y=s.next().charAt(0);
 		System.out.println("THE CHARACTER IS :"+y);
-
+		s.close();
 	}
 
 }

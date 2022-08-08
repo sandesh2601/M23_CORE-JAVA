@@ -14,6 +14,7 @@ public class StringProgram {
         System.out.println("ENTER STRING");
         String str=s.next();
         System.out.println(str);
+        s.close();
     
 	}
 
