@@ -1,4 +1,4 @@
-package com.cg.demoonsuper;
+package com.cg.superdemo;
 
 public class Executor {
 	public static void main(String[] args) {

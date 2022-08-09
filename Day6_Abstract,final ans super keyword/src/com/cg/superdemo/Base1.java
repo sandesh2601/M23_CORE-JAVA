@@ -1,4 +1,4 @@
-package com.cg.demoonsuper;
+package com.cg.superdemo;
 //Abstract Method
 public abstract class Base1 {
 
