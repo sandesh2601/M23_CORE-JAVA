@@ -2,7 +2,7 @@ package com.cg.string;
 //program on string using new keyword
 import java.util.Scanner;
 
-public class StringUsingNweKeyword {
+public class StringUsingNewKeyword {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
