@@ -1,4 +1,5 @@
 package com.cg.collection;
+//program on Linked hash set
 import java.util.LinkedHashSet;
 import java.util.Set;
 public class LinkedHashSetExample {
