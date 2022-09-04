@@ -13,7 +13,7 @@ public class Client {
 		@SuppressWarnings("unused")
 		MMBankFactory b=new MMBankFactory();
 		SavingAcc s=new MMSavingAcc(101,"SANDESH MERKHED",25000,true);
-		CurrentAcc c=new MMCurrentAcc(102,"SUYOG MERKHED",23005,2500);
+		CurrentAcc c=new MMCurrentAcc(102,"SUYOG MERKHED",25000,2500);
 		System.out.println("SAVING ACCOUNT : ");
 		s.withdraw(12000);
 		System.out.println("CUREENT ACCOUNT : ");

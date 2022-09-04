@@ -37,10 +37,12 @@ public abstract class BankAcc {
 		this.accBal = accBal;
 	}
 
-	@Override
-	public String toString() {
-		return String.format("BankAcc [accNo=%s, accNm=%s, accBal=%s]", accNo, accNm, accBal);
-	}
+	//generated to-String method
+		@Override
+		public String toString() {
+			return "BankAcc [accNo=" + accNo + ", accNm=" + accNm + ", accBal=" + accBal + "]";
+		}
+
 	
 	abstract public void withdraw(float accBal);
 	public void deposite(float accBal) {

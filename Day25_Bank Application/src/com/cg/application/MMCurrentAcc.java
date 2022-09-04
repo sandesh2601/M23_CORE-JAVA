@@ -10,10 +10,9 @@ public class MMCurrentAcc extends CurrentAcc {
 
 	@Override
 	public String toString() {
-		return String.format(
-				"MMCurrentAcc [toString()=%s,]",
-				super.toString());
+		return "MMCurrentAcc [toString()=" + super.toString() + "]";
 	}
+	
 
 	
 	
